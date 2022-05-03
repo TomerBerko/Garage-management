@@ -1,0 +1,18 @@
+C:\Users\tomer\OneDrive\Desktop\סמסטר ב שנה ב\Guy_Ronen\עבודה נאמבר 3 עם אסף\ביקורת על העבודה\B21 Ex03 AsafElazar 315874545 TomerBerkovich 208413534\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\tomer\OneDrive\Desktop\סמסטר ב שנה ב\Guy_Ronen\עבודה נאמבר 3 עם אסף\ביקורת על העבודה\B21 Ex03 AsafElazar 315874545 TomerBerkovich 208413534\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\tomer\OneDrive\Desktop\סמסטר ב שנה ב\Guy_Ronen\עבודה נאמבר 3 עם אסף\ביקורת על העבודה\B21 Ex03 AsafElazar 315874545 TomerBerkovich 208413534\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\tomer\OneDrive\Desktop\סמסטר ב שנה ב\Guy_Ronen\עבודה נאמבר 3 עם אסף\ביקורת על העבודה\B21 Ex03 AsafElazar 315874545 TomerBerkovich 208413534\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\tomer\OneDrive\Desktop\סמסטר ב שנה ב\Guy_Ronen\עבודה נאמבר 3 עם אסף\ביקורת על העבודה\B21 Ex03 AsafElazar 315874545 TomerBerkovich 208413534\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\tomer\OneDrive\Desktop\סמסטר ב שנה ב\Guy_Ronen\עבודה נאמבר 3 עם אסף\ביקורת על העבודה\B21 Ex03 AsafElazar 315874545 TomerBerkovich 208413534\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\tomer\OneDrive\Desktop\סמסטר ב שנה ב\Guy_Ronen\עבודה נאמבר 3 עם אסף\ביקורת על העבודה\B21 Ex03 AsafElazar 315874545 TomerBerkovich 208413534\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\tomer\OneDrive\Desktop\סמסטר ב שנה ב\Guy_Ronen\עבודה נאמבר 3 עם אסף\ביקורת על העבודה\B21 Ex03 AsafElazar 315874545 TomerBerkovich 208413534\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\tomer\OneDrive\Desktop\סמסטר ב שנה ב\Guy_Ronen\עבודה נאמבר 3 עם אסף\ביקורת על העבודה\B21 Ex03 AsafElazar 315874545 TomerBerkovich 208413534\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
+C:\Users\tomer\OneDrive\Desktop\projects\Garage_C#\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\tomer\OneDrive\Desktop\projects\Garage_C#\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\tomer\OneDrive\Desktop\projects\Garage_C#\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\tomer\OneDrive\Desktop\projects\Garage_C#\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\tomer\OneDrive\Desktop\projects\Garage_C#\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\tomer\OneDrive\Desktop\projects\Garage_C#\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\tomer\OneDrive\Desktop\projects\Garage_C#\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\tomer\OneDrive\Desktop\projects\Garage_C#\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\tomer\OneDrive\Desktop\projects\Garage_C#\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
