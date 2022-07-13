@@ -12,6 +12,5 @@ Actions available to the user: 🚗 🏍️ 🚚
 5. Inflating a vehicle's wheels.
 6. Display vehicle information.
 
-## Screenshots:
-- Uml:
+## Uml:
 ![uml](screenshot1.png)
